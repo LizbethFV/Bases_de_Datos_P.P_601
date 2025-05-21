@@ -1,0 +1,424 @@
+CECATI,Especialidad,Clave,Año,Modalidad
+1,Administración,25-A-2019A,2022,Presencial
+1,Cuidados Cosmetológicos Faciales y Corporales,29-C-2019A,2022,Presencial
+1,Elaboración de Dibujos Arquitectónico e Industrial,12-DIA-2019A,2022,Presencial
+1,Estilismo y Diseño de Imagen,29-EDI-2019A,2022,Presencial
+1,Mantenimiento a Equipos y Sistemas Electronicos,05-MESE-2021A,2022,Presencial
+1,Máquinas-Herramientas,19-MH-2019A,2022,Presencial
+1,Soldadura y Pailería,19-SP-2019A,2022,Presencial
+1,Uso de la Lengua Inglesa en Diversos Contextos,22-ULIDC-2019A,2022,Presencial
+1,Asistencia Educativa Inicial y Preescolar,26-AE-2019A,2022,Presencial
+1,Informática,23-O-2019A,2022,Mixta
+1,Instalación y Mantenimiento de Sistemas Hidrosanitarios y de Gas,12-IHG-2018A,2022,Mixta
+2,Administración,25-A-2019A,2022,Presencial
+2,Alimentos y Bebidas,30-AB-2018A,2022,Presencial
+2,Asistencia Ejecutiva,25-AE-2017A,2022,Presencial
+2,Diseño y Decoración de Interiores,12-DDI-2017A,2022,Presencial
+2,Elaboración de Dibujos Arquitectónico e Industrial,12-DIA-2019,2022,Presencial
+2,Francés,22-F-2017A,2022,Presencial
+2,Instalación de Recubrimiento Cerámicos,12-IRC-2022A,2022,Mixta
+2,Mantenimiento a Equipos y Sistemas Electronicos,05-MESE-2021A,2022,Presencial
+2,Soldadura y Pailería,19-SP-2019A,2022,Presencial
+2,Soporte a Instalaciones Eléctricas y Motores Eléctricos,04-SIEME-2019A,2022,Presencial
+2,Uso de la Lengua Inglesa en Diversos Contextos,22-ULIDC-2019A,2022,Presencial
+2,Informática,23-O-2019A,2022,Mixta
+3,Administración,25-A-2019A,2022,Presencial
+3,Alimentos y Bebidas,30-AB-2018A,2022,Presencial
+3,Aplicación de Normas y Procedimientos Contables y Fiscales,25-ANPCFEE-2017A,2022,Presencial
+3,Asistencia Ejecutiva,25-AE-2017A,2022,Presencial
+3,Confección de Prendas de Vestir,13-CIR-2022A,2022,Mixta
+3,Cuidados Cosmetológicos Faciales y Corporales,29-C-2019A,2022,Presencial
+3,Elaboración de Dibujos Arquitectónico e Industrial,12-DIA-2019,2022,Presencial
+3,Estilismo y Diseño de Imagen,29-EDI-2019A,2022,Presencial
+3,Mantenimiento a Equipos y Sistemas Electronicos,05-MESE-2021A,2022,Presencial
+3,Mantenimiento al Sistema Eléctrico Automotríz,08-MASEA-2022A,2023,Presencial
+3,Mantenimiento al Sistema Electrónico Automotríz,08-MSEA-2020A,2023,Presencial
+3,Mantenimiento Electrómecanico del Automóvil,08-MEA-2019A,2022,Presencial
+3,Máquinas-Herramientas,19-MH-2019A,2022,Presencial
+3,Soldadura y Pailería,19-SP-2019A,2022,Presencial
+3,Soporte a Instalaciones Eléctricas y Motores Eléctricos,04-SIEME-2019A,2022,Presencial
+3,Asistencia Educativa Inicial y Preescolar,26-AE-2019A,2022,Presencial
+3,Informática,23-O-2019A,2022,Mixta
+4,Administración,25-A-2019A,2022,Presencial
+4,Alimentos y Bebidas,30-AB-2018A,2022,Presencial
+4,Confección de Prendas de Vestir,13-CIR-2022A,2023,Mixta
+4,Cuidados Cosmetológicos Faciales y Corporales,29-C-2019A,2022,Presencial
+4,Diseño de Moda,13-DM-2019A,2022,Presencial
+4,Elaboración de Dibujos Arquitectónico e Industrial,12-DIA-2019,2022,Presencial
+4,Estilismo y Diseño de Imagen,29-EDI-2019A,2022,Presencial
+4,Expresión Gráfica Digital,22-EGD-2017A,2022,Presencial
+4,Instalación y Programación de Sistemas Electrónicos ,06-IPSM-2019A,2022,Presencial
+4,Máquinas-Herramienta,19-MH-2019A,2022,Presencial
+4,Metrología Dimencional,19-MD-2017A,2022,Presencial
+4,Soldadura y Pailería,19-SP-2019A,2022,Presencial
+4,Soporte a Instalaciones Eléctricas y Motores Eléctricos,04-SIEME-2019A,2022,Presencial
+4,Soporte Técnico a Equipos y Sistemas Computacionales,11-STESC-2019A,2022,Presencial
+4,Uso de la Lengua Inglesa en Diversos Contextos,22-ULIDC-2019A,2022,Presencial
+4,Asistencia Educativa Inicial y Preescolar,26-AE-2019A,2022,Presencial
+4,Informática,23-O-2019A,2022,Mixta
+11,Administración,25-A-2019A,2022,Presencial
+11,Cuidados Cosmetológicos Faciales y Corporales,29-C-2019A,2022,Presencial
+11,Elaboración de Dibujos Arquitectónico e Industrial,12-DIA-2019A,2022,Presencial
+11,Atención Integral a Personas Adultas Mayores,28-AIPAM-2022A,2023,Presencial
+11,Atención Integral a Personas con Discapacidad,28-AIPD-2018A,2022,Presencial
+11,Instalación y Programación de Sistemas Electrónicos ,06-IPSM-2019A,2022,Presencial
+11,Refrigeración y Aire Acondicionado,07-RAA-2019A,2022,Mixta
+11,Soporte a Instalaciones Eléctricas y Motores Eléctricos,04-SIEME-2019A,2022,Presencial
+11,Soporte Técnico a Equipos y Sistemas Computacionales,11-STESC-2019A,2022,Presencial
+11,Uso de la Lengua Inglesa en Diversos Contextos,22-ULIDC-2019A,2022,Presencial
+11,Informática,23-O-2019A,2022,Mixta
+12,Administración,25-A-2019A,2022,Presencial
+12,Aplicación de Normas y Procedimientos Contables y Fiscales,25-ANPCFEE-2017A,2022,Presencial
+12,Artes Gráficas,24-AG-2019A,2022,Presencial
+12,Asistencia Ejecutiva,25-AE-2017A,2022,Presencial
+12,Confección de Prendas de Vestir,13-CIR-2022A,2023,Mixta
+12,Cuidados Cosmetológicos Faciales y Corporales,29-C-2019A,2022,Presencial
+12,Diseño de Moda,13-DM-2019A,2022,Presencial
+12,Diseño e Imagen de la Carrocería,08-DIC-2017A,2023,Mixta
+12,Diseño y Fabricación de Muebles de Madera,16-DFMM-2019A,2022,Presencial
+12,Estilismo y Diseño de Imagen,29-EDI-2019A,2022,Presencial
+12,Instalación y Programación de Sistemas Mecatrónicos,06-IPSM-2019A,2022,Presencial
+12,Mantenimiento a Equipos y Sistemas Electronicos,05-MESE-2021A,2022,Presencial
+12,Sastrerá,13-S-2017A,2022,Presencial
+12,Soldadura y Pailería,19-SP-2019A,2022,Presencial
+12,Soporte a Instalaciones Eléctricas y Motores Eléctricos,04-SIEME-2019A,2022,Presencial
+12,Soporte Técnico a Equipos y Sistemas Computacionales,11-STESC-2019A,2022,Presencial
+12,Tapicería,16-T-2017A,2022,Presencial
+12,Uso de la Lengua Inglesa en Diversos Contextos,22-ULIDC-2019A,2022,Presencial
+12,Asistencia Educativa Inicial y Preescolar,26-AE-2019A,2022,Presencial
+12,Informática,23-O-2019A,2022,Mixta
+13,Administración,25-A-2019A,2022,Presencial
+13,Aplicación de Normas y Procedimientos Contables y Fiscales,25-ANPCFEE-2017A,2022,Presencial
+13,Artes Gráficas,24-AG-2019A,2022,Presencial
+13,Artesanías con Fibras Textiles,4-AFT-2017A,2022,Presencial
+13,"Artesanías con Pastas, Pinturas y Acabados",14-APPA-2017A,2022,Presencial
+13,Artesanías Metálicas,14-AM-2017A,2022,Presencial
+13,Asistencia Ejecutiva,25-AE-2017A,2022,Presencial
+13,Atención Integral a Personas Adultas Mayores,28-AIPAM-2022A,2023,Presencial
+13,Atención Integral a Personas con Discapacidad,28-AIPD-2018A,2022,Presencial
+13,Confección de Prendas de Vestir,13-CIR-2022A,2023,Mixta
+13,Cuidados Cosmetológicos Faciales y Corporales,29-C-2019A,2022,Presencial
+13,Diseño de Moda,13-DM-2019A,2022,Presencial
+13,Diseño y Fabricación de Muebles de Madera,08-DIC-2017A,2023,Mixta
+13,Elaboración de Dibujos Arquitectónico e Industrial,12-DIA-2019A,2022,Presencial
+13,Elaboración y Restauración de Artesanías de Madera,14-ERAM-2019A,2022,Presencial
+13,Estilismo y Diseño de Imagen,29-EDI-2019A,2022,Presencial
+13,Expresión Gráfica Digital,22-EGD-2017A,2022,Presencial
+13,Floristería ,14-F-2018A,2022,Presencial
+13,Soporte Técnico a Equipos y Sistemas Computacionales,11-STESC-2019A,2022,Presencial
+13,Tapicería,16-T-2017A,2022,Presencial
+13,Uso de la Lengua Inglesa en Diversos Contextos,22-ULIDC-2019A,2022,Presencial
+13,Asistencia Educativa Inicial y Preescolar,26-AE-2019A,2022,Presencial
+13,Informática,23-O-2019A,2022,Mixta
+14,Administración,25-A-2019A,2022,Presencial
+14,Cuidados Cosmetológicos Faciales y Corporales,29-C-2019A,2022,Presencial
+14,Estilismo y Diseño de Imagen,29-EDI-2019A,2022,Presencial
+14,Mantenimiento al Sistema Eléctrico Automotriz,08-MASEA-2022A,2023,Presencial
+14,Mantenimiento al Sisitema Electrónico Automotriz,08-MSEA-2020A,2023,Presencial
+14,Mantenimiento al Electromecánico del Automovil,08-MEA-2019A,2022,Presencial
+14,Soporte técnico a Equipos y Sistemas Computacionales,11-STESC-2019A,2022,Presencial
+14,Uso de la Lengua Inglesa en Diversos Contextos,22-ULIDC-2019A,2022,Presencial
+14,Informática,23-O-2019A,2022,Mixta
+14,Mecánica Diésel,08-MD-2017A,2022,Presencial
+25,Administración,25-A-2019A,2022,Presencial
+25,Artes Gráficas,24-AG-2019A,2022,Presencial
+25,"Artesanías con Pastas, Pinturas y Acabados",14-APPA-2017A,2022,Presencial
+25,Artesanías Metálicas,14-AM-2017A,2022,Presencial
+25,Elaboración de Joyería y Orfebrería,14-DEJO-2019A,2022,Presencial
+25,Elaboración y Restauración de Artesanías de Madera,14-ERAM-2019A,2022,Presencial
+25,Expresión Gráfica Digital,22-EGD-2017A,2022,Presencial
+25,Floristería ,14-F-2018A,2022,Presencial
+25,Francés,22-F-2017A,2022,Presencial
+25,Uso de la Lengua Inglesa en Diversos Contextos,22-ULIDC-2019A,2022,Presencial
+25,Asistencia Educativa Inicial y Preescolar,26-AE-2019A,2022,Presencial
+25,Informática,23-O-2019A,2022,Mixta
+58,Administración,25-A-2019A,2022,Presencial
+58,Asistencia Ejecutiva,25-AE-2017A,2022,Presencial
+58,Auxiliar en Enfermería,27-AE-2018A,2022,Presencial
+58,Cuidados Cosmetológicos Faciales y Corporales,29-C-2019A,2022,Presencial
+58,Estilismo y Diseño de Imagen,29-EDI-2019A,2022,Presencial
+58,Expresión Gráfica Digital,22-EGD-2017A,2022,Presencial
+58,Mantenimiento de Maquinas de Costura,07-MMC-2017A,2022,Presencial
+58,Soporte Técnico a Equipos y Sistemas Computacionales,11-STESC-2019A,2022,Presencial
+58,Uso de la Lengua Inglesa en Diversos Contextos,22-ULIDC-2019A,2022,Presencial
+58,Informática,23-O-2019A,2022,Mixta
+66,Administración,25-A-2019A,2022,Presencial
+66,Alimentos y Bebidas,30-AB-2018A,2022,Presencial
+66,Aplicación de Normas y Procedimientos Contables y Fiscales,25-ANPCFEE-2017A,2022,Presencial
+66,Asistencia Ejecutiva,25-AE-2017A,2022,Presencial
+66,Francés,22-F-2017A,2022,Presencial
+66,Gestión y Venta de Servicios Turísticos,30-GVST-2018A,2022,Presencial
+66,Uso de la Lengua Inglesa en Diversos Contextos,22-ULIDC-2019A,2022,Presencial
+66,Informática,23-O-2019A,2022,Mixta
+73,Administración,25-A-2019A,2022,Presencial
+73,Alimentos y Bebidas,30-AB-2018A,2022,Presencial
+73,Aplicación de Normas y Procedimientos Contables y Fiscales,25-ANPCFEE-2017A,2022,Presencial
+73,"Artesanías con Pastas, Pinturas y Acabados",14-APPA-2017A,2022,Presencial
+73,Artesanías Metálicas,14-AM-2017A,2022,Presencial
+73,Asistencia Ejecutiva,25-AE-2017A,2022,Presencial
+73,Atención Integral a Personas Adultas Mayores,28-AIPAM-2022A,2023,Presencial
+73,Atención Integral a Personas con Discapacidad,28-AIPD-2018A,2022,Presencial
+73,Confección de Prendas de Vestir,13-CIR-2022A,2023,Mixta
+73,Cuidados Cosmetológicos Faciales y Corporales,29-C-2019A,2022,Presencial
+73,Elaboración de Prótesis y Apartología Dental,18-EPAD-2019A,2022,Presencial
+73,Elaboración y Restauración de Artesanías de Madera,14-ERAM-2019A,2022,Presencial
+73,Estilismo y Diseño de Imagen,29-EDI-2019A,2022,Presencial
+73,Gestión y Venta de Servicios Turísticos,30-GVST-2018A,2022,Presencial
+73,Hotelería,30-H-2018A,2022,Presencial
+73,Mantenimiento a Equipos y Sistemas Electronicos,05-MESE-2021A,2022,Presencial
+73,Soldadura y Pailería,19-SP-2019A,2022,Presencial
+73,Soporte a Instalaciones Eléctricas y Motores Eléctricos,04-SIEME-2019A,2022,Presencial
+73,Soporte Técnico a Equipos y Sistemas Computacionales,11-STESC-2019A,2022,Presencial
+73,Uso de la Lengua Inglesa en Diversos Contextos,22-ULIDC-2019A,2022,Presencial
+73,Asistencia Educativa Inicial y Preescolar,26-AE-2019A,2022,Presencial
+73,Informática,23-O-2019A,2022,Mixta
+73,Instalación y Mantenimiento de Sistemas Hidrosanitarios y de Gas,12-IHG-2018A,2022,Mixta
+74,Administración,25-A-2019A,2022,Presencial
+74,Aplicación de Masajes en SPA,29-MS-2019A,2022,Presencial
+74,Aplicación de Normas y Procedimientos Contables y Fiscales,25-ANPCFEE-2017A,2022,Presencial
+74,Artes Gráficas,24-AG-2019A,2022,Presencial
+74,Asistencia Ejecutiva,25-AE-2017A,2022,Presencial
+74,Confección de Prendas de Vestir,13-CIR-2022A,2023,Mixta
+74,Cuidados Cosmetológicos Faciales y Corporales,29-C-2019A,2022,Presencial
+74,Elaboración de Dibujos Arquitectónico e Industrial,12-DIA-2019A,2022,Presencial
+74,Estilismo y Diseño de Imagen,29-EDI-2019A,2022,Presencial
+74,Expresión Gráfica Digital,22-EGD-2017A,2022,Presencial
+74,Mantenimiento a Equipos y Sistemas Electronicos,04-SIEME-2019A,2022,Presencial
+74,Sastrerá,13-S-2017A,2022,Presencial
+74,Soporte a Instalaciones Eléctricas y Motores Eléctricos,04-SIEME-2019A,2022,Presencial
+74,Soporte Técnico a Equipos y Sistemas Computacionales,11-STESC-2019A,2022,Presencial
+74,Uso de la Lengua Inglesa en Diversos Contextos,22-ULIDC-2019A,2022,Presencial
+74,Asistencia Educativa Inicial y Preescolar,26-AE-2019A,2022,Presencial
+74,Informática,23-O-2019A,2022,Mixta
+75,Administración,25-A-2019A,2022,Presencial
+75,Alimentos y Bebidas,30-AB-2018A,2022,Presencial
+75,Aplicación de Masajes en SPA,29-MS-2019A,2022,Presencial
+75,Aplicación de Normas y Procedimientos Contables y Fiscales,25-ANPCFEE-2017A,2022,Presencial
+75,Asistencia Ejecutiva,25-AE-2017A,2022,Presencial
+75,Confección de Prendas de Vestir,13-CIR-2022A,2023,Mixta
+75,Cuidados Cosmetológicos Faciales y Corporales,29-C-2019A,2022,Presencial
+75,Estilismo y Diseño de Imagen,29-EDI-2019A,2022,Presencial
+75,Expresión Gráfica Digital,22-EGD-2017A,2022,Presencial
+75,Uso de la Lengua Inglesa en Diversos Contextos,22-ULIDC-2019A,2022,Presencial
+75,Asistencia Educativa Inicial y Preescolar,26-AE-2019A,2022,Presencial
+75,Informática,23-O-2019A,2022,Mixta
+99,Administración,25-A-2019A,2022,Presencial
+99,Alimentos y Bebidas,30-AB-2018A,2022,Presencial
+99,Cuidados Cosmetológicos Faciales y Corporales,29-C-2019A,2022,Presencial
+99,Estilismo y Diseño de Imagen,29-EDI-2019A,2022,Presencial
+99,Expresión Gráfica Digital,22-EGD-2017A,2022,Presencial
+99,Soporte Técnico a Equipos y Sistemas Computacionales,11-STESC-2019A,2022,Presencial
+99,Uso de la Lengua Inglesa en Diversos Contextos,22-ULIDC-2019A,2022,Presencial
+99,Asistencia Educativa Inicial y Preescolar,26-AE-2019A,2022,Presencial
+99,Informática,23-O-2019A,2022,Mixta
+108,Administración,25-A-2019A,2022,Presencial
+108,"Doblaje, Locución y Conducción en Radio, Cine y Televisión",22-DLCRCT-2017A,2022,Presencial
+108,Fotografía,22-FO-2011C,2017,Presencial
+108,Producción de Radio y Televisión,22-PRT-2019A,2022,Presencial
+108,Uso de la Lengua Inglesa en Diversos Contextos,22-ULIDC-2019A,2022,Presencial
+108,Informática,23-O-2019A,2022,Mixta
+127,Administración,25-A-2019A,2022,Presencial
+127,Alimentos y Bebidas,30-AB-2018A,2022,Presencial
+127,Aplicación de Normas y Procedimientos Contables y Fiscales,25-ANPCFEE-2017A,2022,Presencial
+127,"Artesanías con Pastas, Pinturas y Acabados",14-APPA-2017A,2022,Presencial
+127,Artesanías Metálicas,14-AM-2017A,2022,Presencial
+127,Asistencia Ejecutiva,25-AE-2017A,2022,Presencial
+127,Confección de Prendas de Vestir,13-CIR-2022A,2023,Mixta
+127,Cuidados Cosmetológicos Faciales y Corporales,29-C-2019A,2022,Presencial
+127,Diseño de Moda,13-DM-2019A,2022,Presencial
+127,Diseño y Fabricación de Muebles de Madera,16-DFMM-2019A,2022,Presencial
+127,Elaboración y Restauración de Artesanías de Madera,14-ERAM-2019A,2022,Presencial
+127,Estilismo y Diseño de Imagen,29-EDI-2019A,2022,Presencial
+127,Expresión Gráfica Digital,22-EGD-2017A,2022,Presencial
+127,Soporte a Instalaciones Eléctricas y Motores Eléctricos,04-SIEME-2019A,2022,Presencial
+127,Soporte Técnico a Equipos y Sistemas Computacionales,11-STESC-2019A,2022,Presencial
+127,Uso de la Lengua Inglesa en Diversos Contextos,22-ULIDC-2019A,2022,Presencial
+127,Informática,23-O-2019A,2022,Mixta
+128,Administración,25-A-2019A,2022,Presencial
+128,Alimentos y Bebidas,30-AB-2018A,2022,Presencial
+128,Asistencia Ejecutiva,25-AE-2017A,2022,Presencial
+128,Auxiliar en Enfermería,27-AE-2018A,2022,Presencial
+128,Confección de Prendas de Vestir,13-CIR-2022A,2023,Mixta
+128,Cuidados Cosmetológicos Faciales y Corporales,29-C-2019A,2022,Presencial
+128,Diseño de Moda,13-DM-2019A,2022,Presencial
+128,Diseño y Fabricación de Muebles de Madera,16-DFMM-2019A,2022,Presencial
+128,Elaboración y Restauración de Artesanías de Madera,14-ERAM-2019A,2022,Presencial
+128,Estilismo y Diseño de Imagen,29-EDI-2019A,2022,Presencial
+128,Mantenimiento a Equipos y Sistemas Electronicos,04-SIEME-2019A,2022,Presencial
+128,Soporte Técnico a Equipos y Sistemas Computacionales,11-STESC-2019A,2022,Presencial
+128,Uso de la Lengua Inglesa en Diversos Contextos,22-ULIDC-2019A,2022,Presencial
+128,Asistencia Educativa Inicial y Preescolar,26-AE-2019A,2022,Presencial
+128,Informática,23-O-2019A,2022,Mixta
+152,Administración,25-A-2019A,2022,Presencial
+152,Alimentos y Bebidas,30-AB-2018A,2022,Presencial
+152,Aplicación de Normas y Procedimientos Contables y Fiscales,25-ANPCFEE-2017A,2022,Presencial
+152,Artes Gráficas,24-AG-2019A,2022,Presencial
+152,Artesanías con Fibras Textiles,4-AFT-2017A,2022,Presencial
+152,"Artesanías con Pastas, Pinturas y Acabados",14-APPA-2017A,2022,Presencial
+152,Asistencia Ejecutiva,25-AE-2017A,2022,Presencial
+152,Atención Integral a Personas Adultas Mayores,28-AIPAM-2022A,2023,Presencial
+152,Atención Integral a Personas con Discapacidad,28-AIPD-2018A,2022,Presencial
+152,Cuidados Cosmetológicos Faciales y Corporales,29-C-2019A,2022,Presencial
+152,Diseño de Moda,13-DM-2019A,2022,Presencial
+152,Estilismo y Diseño de Imagen,29-EDI-2019A,2022,Presencial
+152,Mantenimiento a Equipos y Sistemas Electronicos,04-SIEME-2019A,2022,Presencial
+152,Soporte a Instalaciones Eléctricas y Motores Eléctricos,04-SIEME-2019A,2022,Presencial
+152,Soporte Técnico a Equipos y Sistemas Computacionales,11-STESC-2019A,2022,Presencial
+152,Uso de la Lengua Inglesa en Diversos Contextos,22-ULIDC-2019A,2022,Presencial
+152,Asistencia Educativa Inicial y Preescolar,26-AE-2019A,2022,Presencial
+152,Informática,23-O-2019A,2022,Mixta
+153,Administración,25-A-2019A,2022,Presencial
+153,Aplicación de Normas y Procedimientos Contables y Fiscales,25-ANPCFEE-2017A,2022,Presencial
+153,Diseño de Moda,13-DM-2019A,2022,Presencial
+153,Expresión Gráfica Digital,22-EGD-2017A,2022,Presencial
+153,Soporte Técnico a Equipos y Sistemas Computacionales,11-STESC-2019A,2022,Presencial
+153,Uso de la Lengua Inglesa en Diversos Contextos,22-ULIDC-2019A,2022,Presencial
+153,Asistencia Educativa Inicial y Preescolar,26-AE-2019A,2022,Presencial
+153,Informática,23-O-2019A,2022,Mixta
+155,Administración,25-A-2019A,2022,Presencial
+155,Aplicación de Normas y Procedimientos Contables y Fiscales,25-ANPCFEE-2017A,2022,Presencial
+155,Artes Gráficas,24-AG-2019A,2022,Presencial
+155,Asistencia Ejecutiva,25-AE-2017A,2022,Presencial
+155,Confección de Prendas de Vestir,13-CIR-2022A,2023,Mixta
+155,Cuidados Cosmetológicos Faciales y Corporales,29-C-2019A,2022,Presencial
+155,Diseño y Fabricación de Muebles de Madera,16-DFMM-2019A,2022,Presencial
+155,Estilismo y Diseño de Imagen,29-EDI-2019A,2022,Presencial
+155,Uso de la Lengua Inglesa en Diversos Contextos,22-ULIDC-2019A,2022,Presencial
+155,Informática,23-O-2019A,2022,Mixta
+156,Administración,25-A-2019A,2022,Presencial
+156,Alimentos y Bebidas,30-AB-2018A,2022,Presencial
+156,Artes Gráficas,24-AG-2019A,2022,Presencial
+156,Asistencia Ejecutiva,25-AE-2017A,2022,Presencial
+156,Cuidados Cosmetológicos Faciales y Corporales,29-C-2019A,2022,Presencial
+156,Diseño de Moda,13-DM-2019A,2022,Presencial
+156,Estilismo y Diseño de Imagen,29-EDI-2019A,2022,Presencial
+156,Uso de la Lengua Inglesa en Diversos Contextos,22-ULIDC-2019A,2022,Presencial
+156,Asistencia Educativa Inicial y Preescolar,26-AE-2019A,2022,Presencial
+156,Informática,23-O-2019A,2022,Mixta
+157,Administración,25-A-2019A,2022,Presencial
+157,Alimentos y Bebidas,30-AB-2018A,2022,Presencial
+157,Aplicación de Normas y Procedimientos Contables y Fiscales,25-ANPCFEE-2017A,2022,Presencial
+157,Artes Gráficas,24-AG-2019A,2022,Presencial
+157,Asistencia Ejecutiva,25-AE-2017A,2022,Presencial
+157,Confección de Prendas de Vestir,13-CIR-2022A,2023,Mixta
+157,Cuidados Cosmetológicos Faciales y Corporales,29-C-2019A,2022,Presencial
+157,Diseño e Imagen de la Carrocería,08-DIC-2017A,2023,Mixta
+157,Estilismo y Diseño de Imagen,29-EDI-2019A,2022,Presencial
+157,Expresión Gráfica Digital,22-EGD-2017A,2022,Presencial
+157,Gestión y Venta de Servicios Turísticos,30-GVST-2018A,2022,Presencial
+157,Hotelería,30-H-2018A,2022,Presencial
+157,Mantenimiento al Sistema Eléctrico Automotriz,08-MASEA-2022A,2023,Presencial
+157,Mantenimiento al Sistema Electrónico Automotriz,08-MSEA-2020A,2023,Presencial
+157,Mantenimiento Electromecánico del Automóvil,08-MEA-2019A,2022,Presencial
+157,"Prótesis, Órtesis y Fisioejercitación",18-PO-2017A,2023,Mixta
+157,Soporte a Instalaciones Eléctricas y Motores Eléctricos,04-SIEME-2019A,2022,Presencial
+157,Soporte Técnico a Equipos y Sistemas Computacionales,11-STESC-2019A,2022,Presencial
+157,Uso de la Lengua Inglesa en Diversos Contextos,22-ULIDC-2019A,2022,Presencial
+157,Asistencia Educativa Inicial y Preescolar,26-AE-2019A,2022,Presencial
+157,Informática,23-O-2019A,2022,Mixta
+157,Mecánica Diésel,08-MD-2017A,2022,Presencial
+158,Administración,25-A-2019A,2022,Presencial
+158,Alimentos y Bebidas,30-AB-2018A,2022,Presencial
+158,Cuidados Cosmetológicos Faciales y Corporales,29-C-2019A,2022,Presencial
+158,Estilismo y Diseño de Imagen,29-EDI-2019A,2022,Presencial
+158,Uso de la Lengua Inglesa en Diversos Contextos,22-ULIDC-2019A,2022,Presencial
+158,Informática,23-O-2019A,2022,Mixta
+162,Administración,25-A-2019A,2022,Presencial
+162,Alimentos y Bebidas,30-AB-2018A,2022,Presencial
+162,Aplicación de Normas y Procedimientos Contables y Fiscales,25-ANPCFEE-2017A,2022,Presencial
+162,Artes Gráficas,24-AG-2019A,2022,Presencial
+162,Artesanías con Fibras Textiles,4-AFT-2017A,2022,Presencial
+162,"Artesanías con Pastas, Pinturas y Acabados",14-APPA-2017A,2022,Presencial
+162,Asistencia Ejecutiva,25-AE-2017A,2022,Presencial
+162,Confección de Prendas de Vestir,13-CIR-2022A,2023,Mixta
+162,Cuidados Cosmetológicos Faciales y Corporales,29-C-2019A,2022,Presencial
+162,Diseño de Moda,13-DM-2019A,2022,Presencial
+162,Elaboración de Dibujos Arquitectónico e Industrial,12-DIA-2019A,2022,Presencial
+162,Estilismo y Diseño de Imagen,29-EDI-2019A,2022,Presencial
+162,Expresión Gráfica Digital,22-EGD-2017A,2022,Presencial
+162,Mantenimiento a Equipos y Sistemas Electronicos,04-SIEME-2019A,2022,Presencial
+162,Sastrerá,13-S-2017A,2022,Presencial
+162,Uso de la Lengua Inglesa en Diversos Contextos,22-ULIDC-2019A,2022,Presencial
+162,Asistencia Educativa Inicial y Preescolar,26-AE-2019A,2022,Presencial
+162,Informática,23-O-2019A,2022,Mixta
+167,Administración,25-A-2019A,2022,Presencial
+167,Aplicación de Normas y Procedimientos Contables y Fiscales,25-ANPCFEE-2017A,2022,Presencial
+167,Asistencia Ejecutiva,25-AE-2017A,2022,Presencial
+167,Cuidados Cosmetológicos Faciales y Corporales,29-C-2019A,2022,Presencial
+167,Estilismo y Diseño de Imagen,29-EDI-2019A,2022,Presencial
+167,Francés,22-F-2017A,2022,Presencial
+167,Uso de la Lengua Inglesa en Diversos Contextos,22-ULIDC-2019A,2022,Presencial
+167,Informática,23-O-2019A,2022,Mixta
+171,Administración,25-A-2019A,2022,Presencial
+171,Alimentos y Bebidas,30-AB-2018A,2022,Presencial
+171,Aplicación de Normas y Procedimientos Contables y Fiscales,25-ANPCFEE-2017A,2022,Presencial
+171,Artes Gráficas,24-AG-2019A,2022,Presencial
+171,Asistencia Ejecutiva,25-AE-2017A,2022,Presencial
+171,Confección de Prendas de Vestir,13-CIR-2022A,2023,Mixta
+171,Cuidados Cosmetológicos Faciales y Corporales,29-C-2019A,2022,Presencial
+171,Diseño de Moda,13-DM-2019A,2022,Presencial
+171,Diseño y Fabricación de Muebles de Madera,16-DFMM-2019A,2022,Presencial
+171,Estilismo y Diseño de Imagen,29-EDI-2019A,2022,Presencial
+171,Uso de la Lengua Inglesa en Diversos Contextos,22-ULIDC-2019A,2022,Presencial
+171,Asistencia Educativa Inicial y Preescolar,26-AE-2019A,2022,Presencial
+171,Informática,23-O-2019A,2022,Mixta
+173,Administración,25-A-2019A,2022,Presencial
+173,Alimentos y Bebidas,30-AB-2018A,2022,Presencial
+173,Aplicación de Normas y Procedimientos Contables y Fiscales,25-ANPCFEE-2017A,2022,Presencial
+173,Artes Gráficas,24-AG-2019A,2022,Presencial
+173,Asistencia Ejecutiva,25-AE-2017A,2022,Presencial
+173,Confección de Prendas de Vestir,13-CIR-2022A,2023,Mixta
+173,Cuidados Cosmetológicos Faciales y Corporales,29-C-2019A,2022,Presencial
+173,Diseño de Moda,13-DM-2019A,2022,Presencial
+173,Estilismo y Diseño de Imagen,29-EDI-2019A,2022,Presencial
+173,Francés,22-F-2017A,2022,Presencial
+173,Uso de la Lengua Inglesa en Diversos Contextos,22-ULIDC-2019A,2022,Presencial
+173,Asistencia Educativa Inicial y Preescolar,26-AE-2019A,2022,Presencial
+173,Informática,23-O-2019A,2022,Mixta
+176,Administración,25-A-2019A,2022,Presencial
+176,Aplicación de Normas y Procedimientos Contables y Fiscales,25-ANPCFEE-2017A,2022,Presencial
+176,Artes Gráficas,24-AG-2019A,2022,Presencial
+176,Asistencia Ejecutiva,25-AE-2017A,2022,Presencial
+176,Confección de Prendas de Vestir,13-CIR-2022A,2023,Mixta
+176,Cuidados Cosmetológicos Faciales y Corporales,29-C-2019A,2022,Presencial
+176,Diseño de Moda,13-DM-2019A,2022,Presencial
+176,Estilismo y Diseño de Imagen,29-EDI-2019A,2022,Presencial
+176,Francés,22-F-2017A,2022,Presencial
+176,Mantenimiento a Equipos y Sistemas Electronicos,04-SIEME-2019A,2022,Presencial
+176,Soporte Técnico a Equipos y Sistemas Computacionales,11-STESC-2019A,2022,Presencial
+176,Uso de la Lengua Inglesa en Diversos Contextos,22-ULIDC-2019A,2022,Presencial
+176,Asistencia Educativa Inicial y Preescolar,26-AE-2019A,2022,Presencial
+176,Informática,23-O-2019A,2022,Mixta
+187,Administración,25-A-2019A,2022,Presencial
+187,Asistencia Ejecutiva,25-AE-2017A,2022,Presencial
+187,Cuidados Cosmetológicos Faciales y Corporales,29-C-2019A,2022,Presencial
+187,Estilismo y Diseño de Imagen,29-EDI-2019A,2022,Presencial
+187,Soporte Técnico a Equipos y Sistemas Computacionales,11-STESC-2019A,2022,Presencial
+187,Uso de la Lengua Inglesa en Diversos Contextos,22-ULIDC-2019A,2022,Presencial
+187,Asistencia Educativa Inicial y Preescolar,26-AE-2019A,2022,Presencial
+187,Informática,23-O-2019A,2022,Mixta
+188,Administración,25-A-2019A,2022,Presencial
+188,Alimentos y Bebidas,30-AB-2018A,2022,Presencial
+188,Aplicación de Normas y Procedimientos Contables y Fiscales,25-ANPCFEE-2017A,2022,Presencial
+188,Asistencia Ejecutiva,25-AE-2017A,2022,Presencial
+188,Cuidados Cosmetológicos Faciales y Corporales,29-C-2019A,2022,Presencial
+188,Elaboración de Prótesis y Aparatología Dental,18-EPAD-2019A,2022,Presencial
+188,Estilismo y Diseño de Imagen,29-EDI-2019A,2022,Presencial
+188,Mantenimiento a Equipos y Sistemas Electronicos,04-SIEME-2019A,2022,Presencial
+188,Soporte a Instalaciones Eléctricas y Motores Eléctricos,04-SIEME-2019A,2022,Presencial
+188,Soporte Técnico a Equipos y Sistemas Computacionales,11-STESC-2019A,2022,Presencial
+188,Uso de la Lengua Inglesa en Diversos Contextos,22-ULIDC-2019A,2022,Presencial
+188,Asistencia Educativa Inicial y Preescolar,26-AE-2019A,2022,Presencial
+188,Auxiliar en Optometría,18-SV-2017A,2022,Mixta
+188,Informática,23-O-2019A,2022,Mixta
+194,Administración,25-A-2019A,2022,Presencial
+194,Alimentos y Bebidas,30-AB-2018A,2022,Presencial
+194,Aplicación de Masajes en SPA,29-MS-2019A,2022,Presencial
+194,Atención Integral a Personas Adultas Mayores,28-AIPAM-2022A,2023,Presencial
+194,Atención Integral a Personas con Discapacidad,28-AIPD-2018A,2022,Presencial
+194,Cuidados Cosmetológicos Faciales y Corporales,29-C-2019A,2022,Presencial
+194,Estilismo y Diseño de Imagen,29-EDI-2019A,2022,Presencial
+194,Expresión Gráfica Digital,22-EGD-2017A,2022,Presencial
+194,Soporte Técnico a Equipos y Sistemas Computacionales,11-STESC-2019A,2022,Presencial
+194,Uso de la Lengua Inglesa en Diversos Contextos,22-ULIDC-2019A,2022,Presencial
+194,Informática,23-O-2019A,2022,Mixta
